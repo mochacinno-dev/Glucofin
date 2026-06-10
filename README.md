@@ -20,13 +20,13 @@ Glucofin estima tu riesgo de desarrollar diabetes tipo 2 combinando el cuestiona
 
 ## Funciones
 
-| | Módulo | Descripción |
-|---|---|---|
-| 👤 | **Datos personales** | IMC, cintura, edad, hábitos y antecedentes familiares |
-| 🧪 | **Análisis clínicos** | Glucosa en ayunas, OGTT 2h, HbA1c e insulina |
-| 📈 | **Historial glucémico** | Registro de lecturas con coeficiente de variación (CV) |
-| 📋 | **Reporte de riesgo** | Clasificación FINDRISC + código de color por nivel |
-| 🔧 | **Herramientas** | Conversor mg/dL ↔ mmol/L y cálculo de eAG desde HbA1c |
+| Módulo | Descripción |
+|---|---|
+| **Datos personales** | IMC, cintura, edad, hábitos y antecedentes familiares |
+| **Análisis clínicos** | Glucosa en ayunas, OGTT 2h, HbA1c e insulina |
+| **Historial glucémico** | Registro de lecturas con coeficiente de variación (CV) |
+| **Reporte de riesgo** | Clasificación FINDRISC + código de color por nivel |
+ **Herramientas** | Conversor mg/dL ↔ mmol/L y cálculo de eAG desde HbA1c |
 
 ---
 
